@@ -33,19 +33,19 @@ const CoffeeTables = () => {
                     id={styles.fontfamilycoffeetables}
                     className=" text-2xl font-medium text-gray-900 "
                   >
-                    Ode Three Legged Stool
+                    Coffee Table
                   </p>
                   <p
                     id={styles.fontfamilycoffeetables}
                     className="  text-2xl font-medium text-gray-900 "
                   >
-                    by Sizar Alexis
+                    by Victor Hahner
                   </p>
                   <p
                     id={styles.fontfamilycoffeetables}
                     className=" text-2xl font-medium text-gray-900 "
                   >
-                    1600 €
+                    1,400 €
                   </p>
                 </div>
               </div>
@@ -68,19 +68,19 @@ const CoffeeTables = () => {
                     id={styles.fontfamilycoffeetables}
                     className=" text-2xl font-medium text-gray-900 "
                   >
-                    Ode Three Legged Stool
+                    Osis Block Quadrat
                   </p>
                   <p
                     id={styles.fontfamilycoffeetables}
                     className="  text-2xl font-medium text-gray-900 "
                   >
-                    by Sizar Alexis
+                    by Llot Llov
                   </p>
                   <p
                     id={styles.fontfamilycoffeetables}
                     className=" text-2xl font-medium text-gray-900 "
                   >
-                    1600 €
+                    2,700 €
                   </p>
                 </div>
               </div>
