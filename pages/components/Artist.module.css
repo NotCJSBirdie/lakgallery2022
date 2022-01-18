@@ -1,0 +1,10 @@
+#artistbox {
+  @media (min-width: 768px) {
+    width: 0.14%;
+  }
+  width: 100%;
+}
+
+#fontfamilyartists {
+  font-family: "Neue Haas Grotesk";
+}
